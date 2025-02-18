@@ -7,7 +7,7 @@ Artificial Intelligence & Data Science – Current work in ML, AI ethics, and co
 Blockchain Development – Exploring smart contracts and decentralized applications (Solana).
 
 ### Other Interests
-Editor of [Skhema – Interarts Magazine](www.skhemagazine.com).
-Passionate about wine – WSET Level 2 holder & writer for [Enoversa](www.enoversa.com).
+Editor of [Skhema – Interarts Magazine](https://www.skhemagazine.com).
+Passionate about wine – WSET Level 2 holder & writer for [Enoversa](https://www.enoversa.com).
 Arts – Director of the theatrical play [4.48 Psychosis](https://www.dgartes.gov.pt/pt/evento/5311) and involvement in several interdisciplinary artistic projects.
 Part-time writer and photographer.
