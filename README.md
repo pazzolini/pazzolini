@@ -9,5 +9,5 @@ I am an Artificial Intelligence and Data Science student at Faculdade de Ciênci
 ### Other Interests
 - Editor of [Skhema – Interarts Magazine](https://www.skhemagazine.com).
 - Passionate about wine – WSET Level 2 holder & writer for [Enoversa](https://www.enoversa.com).
-- Arts – Director of the theatrical play [4.48 Psychosis](https://www.dgartes.gov.pt/pt/evento/5311) and involvement in several interdisciplinary artistic projects.
-- Part-time writer and photographer.
+- Arts – Director of the theatrical play [4.48 Psychosis](https://www.dgartes.gov.pt/pt/evento/5311) and involvement in several interdisciplinary artistic projects, e.g.: [Rastro, margem, clarão](https://www.terceirapessoa.pt/portfolio_page/rastro-margem-clarao-basta-que-um-passaro-voe/).
+- Part-time writer and photographer, eg.: [Agon](https://www.skhemagazine.com/agon/).
