@@ -1,11 +1,11 @@
 # About Me
-I’m Vítor Ferreira, currently in the last year of my **Artificial Intelligence and Data Science** degree at Faculdade de Ciências & Faculdade de Engenharia, Universidade do Porto. My background bridges humanities, technology, and research—having previously earned a PhD in Literary, Cultural, and Interart Studies.
+I’m Vítor Ferreira, currently in the last year of my **Artificial Intelligence and Data Science** degree at Faculty of Sciences & Faculty of Engineer, University of Porto. My background bridges humanities, technology, and research—having previously earned a PhD in Literary, Cultural, and Interart Studies.
 
 I’m passionate about machine learning, computational creativity, and blockchain development, always exploring intersections between AI, art, and decentralized technologies. <br><br>
 
 ## Experience & Research
-- Artificial Intelligence & Data Science – Currently in the last year of my degree, focusing on ML, AI ethics, and computational creativity.
-- Blockchain Development – Building smart contracts & dApps, primarily on Solana.
+- Artificial Intelligence & Data Science – Currently in the last year of my degree, focusing on **ML**, AI ethics, and computational creativity.
+- Blockchain Development – Building smart contracts & dApps, primarily on **Solana**.
 - PhD Researcher (2017-2021) – Funded by an FCT scholarship, investigating literary, interartistic, and cultural studies. <br><br>
 
 ## Other Interests
