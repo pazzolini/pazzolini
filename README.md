@@ -4,7 +4,7 @@ I’m Vítor Ferreira, currently in the last year of my **Artificial Intelligenc
 I’m passionate about machine learning, computational creativity, and blockchain development, always exploring intersections between AI, art, and decentralized technologies. <br><br>
 
 ## Experience & Research
-- Artificial Intelligence & Data Science – Currently in the last year of my degree, focusing on **ML**, AI ethics, and computational creativity.
+- Artificial Intelligence & Data Science – Currently in the last year of my degree, focusing on **ML**, **AI ethics**, and **computational creativity**.
 - Blockchain Development – Building smart contracts & dApps, primarily on **Solana**.
 - PhD Researcher (2017-2021) – Funded by an FCT scholarship, investigating literary, interartistic, and cultural studies. <br><br>
 
