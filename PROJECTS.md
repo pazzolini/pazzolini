@@ -24,6 +24,6 @@ Below is a summary of the work done, along with links to each project repository
   - 📖 Context: Individual project for the _Elements of Artificial Intelligence and Data Science course_ (2022/23), utilizing Python.
   - 🛠 Summary: Developed a digital version of the traditional Mancala board game, implementing various gameplay modes and Minimax algorithm.
   - 👥 Collaborators: Solo project.
-  - 
+    
 ---
 
