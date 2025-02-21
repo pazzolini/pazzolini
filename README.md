@@ -1,7 +1,7 @@
 # About Me
 I’m Vítor Ferreira, currently in the last year of my **Artificial Intelligence and Data Science** degree at Faculty of Sciences & Faculty of Engineer, University of Porto. My background bridges humanities, technology, and research—having previously earned a PhD in Literary, Cultural, and Interart Studies.
 
-I’m passionate about machine learning, computational creativity, and blockchain development, always exploring intersections between AI, art, and decentralized technologies. You can check a summary of my developed projects **[here](https://github.com/pazzolini/pazzolini/blob/main/PROJECTS.md)** <br><br>
+I’m passionate about machine learning, computational creativity, and blockchain development, always exploring intersections between AI, art, and decentralized technologies. You can check a summary of my developed projects **[here](https://github.com/pazzolini/pazzolini/blob/main/PROJECTS.md)**. <br><br>
 
 ## Experience & Research
 - Artificial Intelligence & Data Science – Currently in the last year of my degree, focusing on **ML**, **AI ethics**, and **computational creativity**.
