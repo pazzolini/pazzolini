@@ -46,7 +46,7 @@ This file contains a summary of the various projects I have developed, along wit
   - 🛠 Summary: Implemented the ID3 (Iterative Dichotomiser 3) algorithm from scratch to construct decision trees for classification tasks. The project includes training models on various categorical datasets and visualizing the resulting decision trees.
   - 👥 Collaborators: Flávio Dantas, Hugo Almeida.
 
-- **[Connect Four](https://github.com/pazzolini/decision-trees)**
+- **[Connect Four](https://github.com/pazzolini/connect-four)**
   - 📖 Context: Group project for the _Artificial Intelligence_ (2023/24), utilizing Python and Jupyter Notebook.
   - 🛠 Summary: Developed an AI-driven version of the classic Connect Four game, incorporating strategies such as A* search and Monte Carlo Tree Search (MCTS) for optimal move decision-making. The implementation supports both human vs. AI and AI vs. AI gameplay modes.
   - 👥 Collaborators: Flávio Dantas, Hugo Almeida.
