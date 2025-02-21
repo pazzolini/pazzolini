@@ -9,9 +9,10 @@ I’m passionate about machine learning, computational creativity, and blockchai
 - PhD Researcher (2017-2021) – Funded by a FCT scholarship, investigating literary, interartistic, and cultural studies. <br><br>
 
 ## Other Interests
-- 📖 Editor: [Skhema – Interarts Magazine](https://www.skhemagazine.com).
 - 🎭 Arts:
+  - 📖 Editor: [Skhema – Interarts Magazine](https://www.skhemagazine.com).
   - Contributed to several interdisciplinary projects, e.g.: [Rastro, margem, clarão](https://www.terceirapessoa.pt/portfolio_page/rastro-margem-clarao-basta-que-um-passaro-voe/).
   - Occasional writer and photographer, eg.: [Agon](https://www.skhemagazine.com/agon/).
   - Directed [4.48 Psychosis](https://www.dgartes.gov.pt/pt/evento/5311).
-- 🍷 Wine Enthusiast – WSET Level 2 holder & writer for [Enoversa](https://www.enoversa.com).
+- 🍷 Wine – WSET Level 2 holder & writer for [Enoversa](https://www.enoversa.com).
+- 🏃‍♂️🚴 Endurance Sports – Amateur runner & cyclist. Find me on [Strava](https://www.strava.com/athletes/61068733).
