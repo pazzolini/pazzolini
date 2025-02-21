@@ -18,6 +18,23 @@ This file contains a summary of the various projects I have developed, along wit
   - 📖 Context: Developed for the _Laboratory of Artificial Intelligence and Data Science_ course (2024/25), utilizing Python libraries and Jupyter Notebook.
   - 🛠 Summary: Machine learning models for lung cancer classification using CT scan data. Feature selection techniques include LASSO and Random Forest. Classifiers tested: Random Forest, Logistic Regression, and SVM.
   - 👥 Collaborators: @Alejandro-131004, @Mihalachee, @Jony700.
+ 
+- **[Walker2D Environment Customization](https://github.com/pazzolini/walker-2D)**
+  - 📖 Context: Group project for the _Introduction to Intelligent and Antonomous Agents_ course (2024/25), utilizing Python, OpenAI Gym and Stabe Baselines algorithms.
+  -  🛠 Summary: Customized the OpenAI Gym’s Walker2D environment to enhance learning efficiency. The project involved:
+	  - Modifying the action space to better suit the agent’s control capabilities.
+    - Redesigning reward functions to provide more informative feedback.
+	  - Implementing reinforcement learning algorithms using the Stable Baselines library.
+	  - Comparing performance across different configurations to identify optimal setups.
+  - 👥 Collaborators: @luanalegi, @FMSCarvalho.
+
+- **[MAS Waste Collection System](https://github.com/pazzolini/mas-waste-collection)**
+  - 📖 Context: Group project for the _Introduction to Intelligent and Antonomous Agents_ course (2024/25), utilizing Python and SPADE.
+  -  🛠 Summary: Developed a decentralized multi-agent system simulating autonomous waste collection using intelligent bins and trucks. Implemented using Python and the SPADE framework, the system features:
+	  - Bin Agents: Monitor waste levels and request collections via the Contract Net Protocol.
+	  - Truck Agents: Manage waste collection tasks, monitor fuel levels, and bid for collection assignments.
+	  - Environment Module: Simulates a grid system with dynamic traffic events and rush hour conditions.
+  - 👥 Collaborators: @luanalegi, @FMSCarvalho.
 
 - **[Evaluation and Comparison of K-NN Algorithms](https://github.com/pazzolini/k-nn-algorithms)**
   - 📖 Context: Developed for the _Machine Learning I_ course (2023/24), utilizing Python and Jupyter Notebook.
