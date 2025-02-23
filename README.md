@@ -10,7 +10,7 @@ I’m passionate about machine learning, computational creativity, and blockchai
 
 ## Other Interests
 - 🎭 Arts:
-  - 📖 Editor: [Skhema – Interarts Magazine](https://www.skhemagazine.com).
+  - Editor: [Skhema – Interarts Magazine](https://www.skhemagazine.com).
   - Contributed to several interdisciplinary projects, e.g.: [Rastro, margem, clarão](https://www.terceirapessoa.pt/portfolio_page/rastro-margem-clarao-basta-que-um-passaro-voe/).
   - Occasional writer and photographer, eg.: [Agon](https://www.skhemagazine.com/agon/).
   - Directed [4.48 Psychosis](https://www.dgartes.gov.pt/pt/evento/5311).
