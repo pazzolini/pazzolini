@@ -4,6 +4,11 @@ This file contains a summary of the various projects I have developed, along wit
 
 ## AI & Machine Learning
 
+* **[U.S. Medical Insurance Cost Analysis](https://github.com/pazzolini/us-medical-insurance-costs)**
+   - 📖 Context: Personal project completed as part of the Codecademy Data Science: Machine Learning Specialist Career Path, utilizing Python libraries and Jupyter Notebook.
+   - 🛠 Summary: Developed a comprehensive analysis of factors influencing medical insurance costs in the U.S., using a dataset of 1,338 insurance beneficiaries. Applied machine learning techniques including gradient boosting to predict insurance charges with 88% accuracy (R² of 0.8795). Identified smoking status, BMI, and age as key cost drivers, with significant interaction effects that dramatically amplify costs. Created a risk assessment framework and personalized pricing strategies for insurance companies.
+  - 👥 Collaborators: Solo project.
+
 - **[Sound Classification using Neural Networks](https://github.com/pazzolini/urbansound8k)**
   - 📖 Context: Group project for the _Machine Learning II_ course (2024/25), utilizing Python libraries and Jupyter Notebook.
   -  🛠 Summary: Developed models to classify urban sounds using the UrbanSound8K dataset. Implemented and compared various neural network architectures, including: MLP, CNN, RNN, LSTM, GRU. The project involved data analysis, model training, and evaluation to determine the most effective architecture for sound classification tasks. I mainly developed the first notebook (Data Analysis, MLP architecture) and the conclusion.
