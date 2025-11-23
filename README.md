@@ -10,8 +10,7 @@
 
 ### `// NARRATIVE_LOG`
 
-> **`[ PROLOGUE ]`** > **Bridging the divide between Humanities and Code.** > My trajectory moves from the subjectivity of Arts (PhD in Literature) to the objectivity of Engineering (BSc in AI). I do not balance these disciplines; I compile them. From the syntax of Python to the semiotics of Image, the logic is identical: **Structure, Pattern, Meaning.**
-
+> **`[ PROLOGUE ]`** > **Bridging the divide between Humanities and Code.** > My trajectory moves from the subjectivity of Arts (PhD in Literature) to the objectivity of Engineering (BSc in AI). 
 <br/>
 
 ### `// SYSTEM_SPECS`
