@@ -1,18 +1,52 @@
-# About Me
-I’m Vítor Ferreira, currently in the last year of my **Artificial Intelligence and Data Science** degree at Faculty of Sciences & Faculty of Engineer, University of Porto. My background bridges humanities, technology, and research—having previously earned a PhD in Literary, Cultural, and Interart Studies.
+<div align="center">
 
-I’m passionate about machine learning, computational creativity, and blockchain development, always exploring intersections between AI, art, and decentralized technologies. You can check a summary of my developed projects **[here](https://github.com/pazzolini/pazzolini/blob/main/PROJECTS.md)**. <br><br>
+# `// VÍTOR RAMALHOSA FERREIRA`
 
-## Experience & Research
-- Artificial Intelligence & Data Science – Currently in the last year of my degree, focusing on **ML**, **AI ethics**, and **computational creativity**.
-- Blockchain Development – Building smart contracts & dApps, primarily on **Solana**.
-- PhD Researcher (2017-2021) – Funded by a FCT scholarship, investigating literary, interartistic, and cultural studies. <br><br>
+**`[ ARCHIVE_ID: VRF-2025 ]`** &nbsp; **`[ STATUS: ONLINE ]`** &nbsp; **`[ LOC: PORTO, PT ]`**
 
-## Other Interests
-- 🎭 Arts:
-  - Editor: [Skhema – Interarts Magazine](https://www.skhemagazine.com).
-  - Contributed to several interdisciplinary projects, e.g.: [Rastro, margem, clarão](https://www.terceirapessoa.pt/portfolio_page/rastro-margem-clarao-basta-que-um-passaro-voe/).
-  - Occasional writer and photographer, eg.: [Agon](https://www.skhemagazine.com/agon/).
-  - Directed [4.48 Psychosis](https://www.dgartes.gov.pt/pt/evento/5311).
-- 🍷 Wine: WSET Level 2 holder & writer for [Enoversa](https://www.enoversa.com).
-- 🏃‍♂️🚴 Endurance Sports: Amateur runner & Zwift lover. Find me on [Strava](https://www.strava.com/athletes/61068733).
+</div>
+
+<br/>
+
+### `// NARRATIVE_LOG`
+
+> **`[ PROLOGUE ]`** > **Bridging the divide between Humanities and Code.** > My trajectory moves from the subjectivity of Arts (PhD in Literature) to the objectivity of Engineering (BSc in AI). I do not balance these disciplines; I compile them. From the syntax of Python to the semiotics of Image, the logic is identical: **Structure, Pattern, Meaning.**
+
+<br/>
+
+### `// SYSTEM_SPECS`
+
+| `[ DOMAIN ]` | `[ TECHNOLOGY ]` |
+| :--- | :--- |
+| **LOGIC / CODE** | `Python` `SQL` `C` `Java` `Bash` |
+| **DATA / AI** | `PyTorch` `Hugging Face` `Pandas` `Scikit-Learn` `NLP` |
+| **INFRASTRUCTURE** | `Docker` `Git` `Linux` `GCP` |
+| **WEB / ARCHIVE** | `Astro` `React` `TypeScript` `Tailwind` |
+
+<br/>
+
+### `// ARCHIVE_INDEX`
+
+| `REF_ID` | `[ DOMAIN ]` | `[ PROJECT NAME ]` | `[ SPECS ]` |
+| :--- | :--- | :--- | :--- |
+| `001` | **`[ DL ]`** | [**UrbanSound8K Classification**](https://github.com/pazzolini/urbansound8k) | `CNN` `RNN` `LSTM` `Audio Processing` |
+| `002` | **`[ RL ]`** | [**Walker2D Optimization**](https://github.com/pazzolini/walker-2D) | `OpenAI Gym` `Stable Baselines` `PPO` |
+| `003` | **`[ ML ]`** | [**Stock Portfolio Forecasting**](https://github.com/pazzolini/stock-forecasting) | `Time-Series` `Portfolio Theory` `Risk Mgmt` |
+| `004` | **`[ DS ]`** | [**Medical Cost Analysis**](https://github.com/pazzolini/us-medical-insurance-costs) | `Gradient Boosting` `Regression` `Risk Assessment` |
+| `005` | **`[ MAS ]`** | [**Autonomous Waste System**](https://github.com/pazzolini/mas-waste-collection) | `SPADE` `Distributed Systems` `Contract Net` |
+| `006` | **`[ MED ]`** | [**Lung Cancer Classification**](https://github.com/pazzolini/lung-cancer-classification) | `LASSO` `Random Forest` `Bioinformatics` |
+| `007` | **`[ AI ]`** | [**Connect Four AI**](https://github.com/pazzolini/connect-four) | `A* Search` `MCTS` `Game Theory` |
+| `008` | **`[ DS ]`** | [**Portuguese Wine Analysis**](https://github.com/pazzolini/portuguese-wine-vivino) | `Web Scraping` `EDA` `Classification` |
+
+<br/>
+
+<div align="center">
+
+`[ ACCESS FULL ARCHIVE: ]`
+<br/>
+[**VITORRAMALHOSAFERREIRA.COM**](https://vitorramalhosaferreira.com/)
+
+<br/>
+
+`© 2025 VÍTOR RAMALHOSA FERREIRA // END OF RECORD`
+</div>
