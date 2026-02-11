@@ -1,57 +1,77 @@
 <div align="center">
 
-# `// VÍTOR RAMALHOSA FERREIRA`
+<h1>Vítor Ramalhosa Ferreira</h1>
 
-**`[ ARCHIVE_ID: VRF-2025 ]`** &nbsp; **`[ STATUS: ONLINE ]`** &nbsp; **`[ LOC: PORTO, PT ]`**
+**Data Scientist** · **Researcher** · **Porto, PT**
+
+*Bridging critical theory and computational methods*
 
 </div>
 
-<br/>
+## Current Status
 
-### `// NARRATIVE_LOG`
+```diff
++ PhD Comparative Literature (FLUP) → Intermediality, Photography Theory, Portuguese Literature
++ BSc AI & Data Science (FCUP) → 2/120 ECTS remaining (Data Structures, Algorithm Design)
++ Research Data Scientist → TikTokland Project (Europa Criativa) / Political Data & Platform Studies
+```
 
-> **`[ PROLOGUE ]`** > **Bridging the divide between Humanities and Code.** > My trajectory moves between the subjectivity of Arts (PhD in Comparative Literature) to the objectivity of Engineering (BSc in AI & Data Science). 
-<br/>
+## Research Interests
 
-### `// SYSTEM_SPECS`
+**Computational:** Natural Language Processing · Social Network Analysis · Computer Vision · Bibliometrics
 
-| `[ DOMAIN ]` | `[ TECHNOLOGY ]` |
-| :--- | :--- |
-| **LOGIC / CODE** | `Python` `SQL` `C` `Java` `Bash` |
-| **DATA / AI** | `PyTorch` `Hugging Face` `Pandas` `Scikit-Learn` `NLP` |
-| **INFRASTRUCTURE** | `Docker` `Git` `Linux` `GCP` |
-| **WEB / ARCHIVE** | `Astro` `React` `TypeScript` `Tailwind` |
+**Theoretical:** Platform Politics · Intermediality · Archive Theory · Critical Data Studies
 
-<br/>
+## Selected Work
 
-### `// ARCHIVE_INDEX`
+| Project | Domain | Description | Stack |
+|:---|:---|:---|:---|
+| [**Portuguese TikTok Analysis**](https://github.com/pazzolini/portuguese_tiktok) | `NLP` | Political discourse & infotainment patterns in Portuguese TikTok | Python, NLP, SNA |
+| [**WoS Reference Extractor**](https://github.com/pazzolini/wos-cited-reference-extractor) | `Bibliometrics` | Parsing Web of Science citation networks for literary studies | Regex, Data Parsing |
+| [**UrbanSound8K Classification**](https://github.com/pazzolini/urbansound8k) | `Deep Learning` | Environmental sound classification using CNN-RNN hybrids | PyTorch, Librosa |
+| [**Connect Four AI**](https://github.com/pazzolini/connect-four) | `Game Theory` | Adversarial search with MCTS and heuristic optimization | Python, A*, MCTS |
+| [**Lung Cancer Classification**](https://github.com/pazzolini/lung-cancer-classification) | `Bioinformatics` | Genomic marker identification via LASSO & ensemble methods | scikit-learn, BioPython |
 
-| `REF_ID` | `[ DOMAIN ]` | `[ PROJECT NAME ]` | `[ SPECS ]` |
-| :--- | :--- | :--- | :--- |
-| `001` | **`[ AI ]`** | [**Connect Four AI**](https://github.com/pazzolini/connect-four) | `A* Search` `MCTS` `Game Theory` |
-| `002` | **`[ AI ]`** | [**Mancala Agent**](https://github.com/pazzolini/mancala) | `Minimax` `Alpha-Beta Pruning` `Game Theory` |
-| `003` | **`[ ML ]`** | [**Lung Cancer Classification**](https://github.com/pazzolini/lung-cancer-classification) | `LASSO` `Random Forest` `Bioinformatics` |
-| `004` | **`[ ML ]`** | [**Stock Portfolio Forecasting**](https://github.com/pazzolini/stock-forecasting) | `Time-Series` `Portfolio Theory` `Risk Mgmt` |
-| `005` | **`[ ML ]`** | [**Decision Trees From Scratch**](https://github.com/pazzolini/decision-trees) | `ID3 Algorithm` `Entropy` `NumPy` |
-| `006` | **`[ ML ]`** | [**K-NN Implementation**](https://github.com/pazzolini/k-nn-algorithms) | `Distance Metrics` `Classification` `Algorithm Design` |
-| `007` | **`[ DL ]`** | [**UrbanSound8K Classification**](https://github.com/pazzolini/urbansound8k) | `CNN` `RNN` `LSTM` `Audio Processing` |
-| `008` | **`[ RL ]`** | [**Walker2D Optimization**](https://github.com/pazzolini/walker-2D) | `OpenAI Gym` `Stable Baselines` `PPO` |
-| `009` | **`[ NLP ]`** | [**Portuguese TikTok Analysis**](https://github.com/pazzolini/portuguese_tiktok) | `Text Mining` `Social Network Analysis` `Scraping` |
-| `010` | **`[ MAS ]`** | [**Autonomous Waste System**](https://github.com/pazzolini/mas-waste-collection) | `SPADE` `Distributed Systems` `Contract Net` |
-| `011` | **`[ DS ]`** | [**Medical Cost Analysis**](https://github.com/pazzolini/us-medical-insurance-costs) | `Gradient Boosting` `Regression` `Risk Assessment` |
-| `012` | **`[ DS ]`** | [**Portuguese Wine Analysis**](https://github.com/pazzolini/portuguese-wine-vivino) | `Web Scraping` `EDA` `Classification` |
-| `013` | **`[ DB ]`** | [**Wine Database Manager**](https://github.com/pazzolini/wine-db) | `SQL` `Relational Modeling` `Data Integrity` |
-| `014` | **`[ R&D ]`** | [**WoS Reference Extractor**](https://github.com/pazzolini/wos-cited-reference-extractor) | `Bibliometrics` `Regex` `Data Parsing` |
+<details>
+<summary><b>Archive / Coursework & Early Projects</b></summary>
+<br>
 
-<br/>
+| Project | Focus |
+|:---|:---|
+| [Mancala Agent](https://github.com/pazzolini/mancala) | Minimax with Alpha-Beta pruning |
+| [Decision Trees from Scratch](https://github.com/pazzolini/decision-trees) | ID3 algorithm implementation (NumPy only) |
+| [Stock Portfolio Forecasting](https://github.com/pazzolini/stock-forecasting) | Time-series analysis & risk metrics |
+| [Autonomous Waste System](https://github.com/pazzolini/mas-waste-collection) | Multi-agent systems (SPADE framework) |
+| [Walker2D Optimization](https://github.com/pazzolini/walker-2D) | Reinforcement Learning (PPO) |
+| [K-NN Implementation](https://github.com/pazzolini/k-nn-algorithms) | Distance metrics & classification algorithms |
+| [Medical Cost Analysis](https://github.com/pazzolini/us-medical-insurance-costs) | Gradient boosting & regression |
+| [Portuguese Wine Analysis](https://github.com/pazzolini/portuguese-wine-vivino) | Web scraping & EDA |
+| [Wine Database Manager](https://github.com/pazzolini/wine-db) | Relational SQL modeling |
+
+</details>
+
+## Technical Profile
+
+**Languages:** Python (primary), SQL, Java, C, Bash
+
+**ML/Data:** PyTorch, Hugging Face Transformers, Pandas, scikit-learn, spaCy, NetworkX
+
+**Infrastructure:** Docker, Linux, Git, GCP
+
+**Web/Visualization:** Astro, React, TypeScript, D3.js
+
+## Beyond Code
+
+- **Photography:** Artistic practice focusing on corporeal intimacy & fragmentation (Fujifilm X-H1). Published in [*SKHEMA*](https://ilcml.com/skhema-revista-interartes/), developing series *Agon* and *Salt & Pepper*.
+- **Critical Writing:** PhD thesis on Portuguese literature & photography intersections (Fernando Lemos, Rui Nunes, Manuel Gusmão, Luís Quintais).
+- **Oenology:** Co-creator of [*Enoversa*](https://enoversa.com), a low-intervention wine journal. 
+
+---
 
 <div align="center">
 
-`[ ACCESS FULL ARCHIVE: ]`
-<br/>
-[**VITORRAMALHOSAFERREIRA.COM**](https://vitorramalhosaferreira.com/)
+**[vitorramalhosaferreira.com](https://vitorramalhosaferreira.com)**
 
-<br/>
+*Last updated: February 2026*
 
-`© 2025 VÍTOR RAMALHOSA FERREIRA // END OF RECORD`
 </div>
