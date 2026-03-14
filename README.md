@@ -4,36 +4,34 @@
 
 **Data Scientist** · **Researcher** · **Porto, PT**
 
-*Bridging critical theory and computational methods*
+NLP and political discourse analysis on Portuguese TikTok · PhD in Comparative Literature
 
 </div>
 
-## Current Status
+## Current Position
 
-```diff
-+ PhD Comparative Literature (FLUP) → Intermediality, Photography Theory, Portuguese Literature
-+ BSc AI & Data Science (FCUP) → 2/120 ECTS remaining (Data Structures, Algorithm Design)
-+ Research Data Scientist → TikTokland Project (Europa Criativa) / Political Data & Platform Studies
-```
+- PhD Comparative Literature (FLUP) — Intermediality, Photography Theory, Portuguese Literature - concluded in 2022
+- BSc AI & Data Science (FCUP) — 6/180 ECTS remaining
+- Collaborator Data Scientist, TikTokland Project — [INESC TEC](https://www.inesctec.pt) (NLP Group) · [ILCML](https://ilcml.com) (Intermedialities Group)
 
 ## Research Interests
 
-**Computational:** Natural Language Processing · Social Network Analysis · Computer Vision · Bibliometrics
+**Computational:** Natural Language Processing · Social Network Analysis · AI Alignment
 
-**Theoretical:** Platform Politics · Intermediality · Archive Theory · Critical Data Studies
+**Theoretical:** Platform Politics · Sycophancy & Epistemic Closure · Intermediality
 
 ## Selected Work
 
 | Project | Domain | Description | Stack |
 |:---|:---|:---|:---|
-| [**Portuguese TikTok Analysis**](https://github.com/pazzolini/portuguese_tiktok) | `NLP` | Political discourse & infotainment patterns in Portuguese TikTok | Python, NLP, SNA |
-| [**WoS Reference Extractor**](https://github.com/pazzolini/wos-cited-reference-extractor) | `Bibliometrics` | Parsing Web of Science citation networks for literary studies | Regex, Data Parsing |
+| [**Portuguese TikTok Analysis**](https://github.com/pazzolini/portuguese_tiktok) | `NLP` | Political discourse classification on Portuguese TikTok (~25K videos, Chega + multi-party). Collaborating with INESC TEC on an analysis platform integrating [AMALIA](https://www.inesc-id.pt/amalia-giving-voice-to-portuguese-identity-through-artificial-intelligence/), the Portuguese national LLM. Collaborations with [Expresso](https://expresso.pt). | Python, Transformers, SNA |
 | [**UrbanSound8K Classification**](https://github.com/pazzolini/urbansound8k) | `Deep Learning` | Environmental sound classification using CNN-RNN hybrids | PyTorch, Librosa |
 | [**Connect Four AI**](https://github.com/pazzolini/connect-four) | `Game Theory` | Adversarial search with MCTS and heuristic optimization | Python, A*, MCTS |
 | [**Lung Cancer Classification**](https://github.com/pazzolini/lung-cancer-classification) | `Bioinformatics` | Genomic marker identification via LASSO & ensemble methods | scikit-learn, BioPython |
+| [**WoS Reference Extractor**](https://github.com/pazzolini/wos-cited-reference-extractor) | `Bibliometrics` | Parsing Web of Science citation networks for literary studies | Regex, Data Parsing |
 
 <details>
-<summary><b>Archive / Coursework & Early Projects</b></summary>
+<summary><b>BSc Coursework Projects</b></summary>
 <br>
 
 | Project | Focus |
@@ -56,15 +54,15 @@
 
 **ML/Data:** PyTorch, Hugging Face Transformers, Pandas, scikit-learn, spaCy, NetworkX
 
-**Infrastructure:** Docker, Linux, Git, GCP
+**Infrastructure:** Linux, Git, GCP
 
 **Web/Visualization:** Astro, React, TypeScript, D3.js
 
-## Beyond Code
+## Other Work
 
-- **Photography:** Artistic practice focusing on corporeal intimacy & fragmentation (Fujifilm X-H1). Published in [*SKHEMA*](https://ilcml.com/skhema-revista-interartes/), developing series *Agon* and *Salt & Pepper*.
-- **Critical Writing:** PhD thesis on Portuguese literature & photography intersections (Fernando Lemos, Rui Nunes, Manuel Gusmão, Luís Quintais).
-- **Oenology:** Co-creator of [*Enoversa*](https://enoversa.com), a low-intervention wine journal. 
+- **Photography:** Artistic practice. Published in [*SKHEMA*](https://www.skhemagazine.com/agon/), where I'm co-editor.
+- **Critical Writing:** PhD thesis on photography and literature in Fernando Lemos, Rui Nunes, Manuel Gusmão, and Luís Quintais.
+- **Wine:** Co-creator of [*Enoversa*](https://enoversa.com), a low-intervention wine journal.
 
 ---
 
@@ -72,6 +70,6 @@
 
 **[vitorramalhosaferreira.com](https://vitorramalhosaferreira.com)**
 
-*Last updated: February 2026*
+*Last updated: March 2026*
 
 </div>
